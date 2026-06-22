@@ -17,7 +17,7 @@ https://github.com/Qwamhina-480/analysis_dashboard
 https://analysisdashboard-hnz3daowkhjbpcn9jog9n9.streamlit.app/
 
 **Notebook:**
-Add notebook link here after uploading the `.ipynb` file.
+https://colab.research.google.com/drive/1mRtWO-02Z3imYib9elIm4Jj5n7l2JP8k?usp=sharing
 
 **Presentation:**
 https://docs.google.com/presentation/d/1br5oCZuKjZb8oPFgtya_BWSFVVhygD5fMXD9uaUdLSA/edit?usp=sharing
